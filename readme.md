@@ -49,7 +49,7 @@ git remote add origin git@github.com:Deathcriding/education.git
 Убедиться, что репозитории связаны
 
 ```bash
- ****git remote -v
+git remote -v
 ```
 
 Чтобы запушить данные необходимо выполнить команду
